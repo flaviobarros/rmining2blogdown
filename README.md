@@ -1,2 +1,3 @@
 # rmining2blogdown
-Procedure to convert from my site from Wordpress to blogdown.
+
+Procedure to convert my site [R Mining](http://www.rmining.net) from Wordpress to blogdown.
